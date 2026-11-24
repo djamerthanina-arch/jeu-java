@@ -36,3 +36,6 @@ Le jeu se déroule sur un plateau de 10 × 10 cases. Deux joueurs s'affrontent a
 ## Objectif du projet
 
 Mettre en pratique mes connaissances en Java, notamment la programmation orientée objet, les interfaces graphiques et la gestion des données.
+## Capture d'écran du jeu
+
+![Capture du jeu](jeu.png)
